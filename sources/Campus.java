@@ -1,0 +1,8 @@
+
+public enum Campus 
+{
+	BURNABY,
+	DOWNTOWN,
+	RICHMOND,
+	NORTH_VANCOUVER
+}
